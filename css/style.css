@@ -4475,7 +4475,7 @@ main p {
 
 #s1-1-bb img {
   height: 3.5vh;
-  transform: translate(1%, -15%) rotate(10deg);
+  transform: translate(-5%, -15%) rotate(10deg);
 }
 
 #s1-1-bb {
@@ -4484,7 +4484,7 @@ main p {
 
 #s1-2-bb img {
   height: 2.3vh;
-  transform: translate(-40%, 115%) rotate(25deg);
+  transform: translate(-45%, 115%) rotate(25deg);
 }
 
 #s1-3-bb img {
@@ -4498,7 +4498,7 @@ main p {
 
 #s1-4-bb img {
   height: 2.5vh;
-  transform: translate(150%, 65%) rotate(-15deg);
+  transform: translate(145%, 65%) rotate(-10deg);
 }
 
 #s2-1-bb img {
@@ -4512,7 +4512,7 @@ main p {
 
 #s2-2-bb img {
   height: 0.8vh;
-  transform: translate(-30%, 250%) rotate(30deg);
+  transform: translate(-45%, 250%) rotate(30deg);
 }
 
 #s2-3-bb img {
@@ -4554,7 +4554,7 @@ main p {
 
 #s3-4-bb img {
   height: 2.4vh;
-  transform: translate(150%, 75%) rotate(-15deg);
+  transform: translate(150%, 70%) rotate(-10deg);
 }
 
 #s4-1-bb img {
@@ -4596,7 +4596,7 @@ main p {
 
 #s5-2-bb img {
   height: 1.3vh;
-  transform: translate(-32%, 190%) rotate(15deg);
+  transform: translate(-32%, 175%) rotate(15deg);
 }
 
 #s5-3-bb img {
@@ -4652,7 +4652,7 @@ main p {
 
 #s7-2-bb img {
   height: 3.5vh;
-  transform: translate(-30%, 50%) rotate(30deg);
+  transform: translate(-35%, 50%) rotate(30deg);
 }
 
 #s7-2-bb {
@@ -4670,7 +4670,7 @@ main p {
 
 #s7-4-bb img {
   height: 3.5vh;
-  transform: translate(180%, 40%) rotate(-5deg);
+  transform: translate(180%, 40%) rotate(0deg);
 }
 
 #s7-4-bb {
@@ -4832,7 +4832,7 @@ main p {
 
 #s12-2-bb img {
   height: 4.2vh;
-  transform: translate(-80%, 65%) rotate(25deg);
+  transform: translate(-90%, 63%) rotate(25deg);
 }
 
 #s12-2-bb {
@@ -4861,7 +4861,7 @@ main p {
 
 #b1-1-bb img {
   height: 3.5vh;
-  transform: translate(-110%, -5%) rotate(25deg);
+  transform: translate(-118%, -5%) rotate(25deg);
 }
 
 #b1-2-bb img {
@@ -4871,7 +4871,7 @@ main p {
 
 #b2-1-bb img {
   height: 3.1vh;
-  transform: translate(-120%, 8%) rotate(20deg);
+  transform: translate(-127%, 5%) rotate(20deg);
 }
 
 #b2-2-bb img {
@@ -4881,77 +4881,77 @@ main p {
 
 #b3-1-bb img {
   height: 2.3vh;
-  transform: translate(-120%, 40%) rotate(20deg);
+  transform: translate(-125%, 40%) rotate(20deg);
 }
 
 #b3-2-bb img {
   height: 2.2vh;
-  transform: translate(45%, 2%) rotate(0deg);
+  transform: translate(40%, 2%) rotate(0deg);
 }
 
 #b4-1-bb img {
   height: 2.4vh;
-  transform: translate(-115%, 40%) rotate(20deg);
+  transform: translate(-125%, 35%) rotate(20deg);
 }
 
 #b4-2-bb img {
   height: 2.3vh;
-  transform: translate(55%, 0%) rotate(0deg);
+  transform: translate(47%, 0%) rotate(0deg);
 }
 
 #b5-1-bb img {
-  height: 2.3vh;
-  transform: translate(-125%, 40%) rotate(20deg);
+  height: 2.4vh;
+  transform: translate(-130%, 40%) rotate(20deg);
 }
 
 #b5-2-bb img {
-  height: 2.2vh;
-  transform: translate(60%, 2%) rotate(0deg);
+  height: 2.3vh;
+  transform: translate(52%, 2%) rotate(0deg);
 }
 
 #b6-1-bb img {
   height: 2.1vh;
-  transform: translate(-125%, 55%) rotate(20deg);
+  transform: translate(-135%, 55%) rotate(20deg);
 }
 
 #b6-2-bb img {
   height: 2.1vh;
-  transform: translate(80%, 5%) rotate(0deg);
+  transform: translate(70%, 5%) rotate(0deg);
 }
 
 #b7-1-bb img {
   height: 1.9vh;
-  transform: translate(-130%, 70%) rotate(20deg);
+  transform: translate(-140%, 70%) rotate(20deg);
 }
 
 #b7-2-bb img {
   height: 1.9vh;
-  transform: translate(80%, 13%) rotate(0deg);
+  transform: translate(72%, 13%) rotate(0deg);
 }
 
 #b8-1-bb img {
   height: 2.2vh;
-  transform: translate(-130%, 45%) rotate(20deg);
+  transform: translate(-135%, 45%) rotate(20deg);
 }
 
 #b8-2-bb img {
   height: 2vh;
-  transform: translate(70%, 10%) rotate(0deg);
+  transform: translate(65%, 10%) rotate(0deg);
 }
 
 #b9-1-bb img {
   height: 2.8vh;
-  transform: translate(-110%, 20%) rotate(20deg);
+  transform: translate(-120%, 20%) rotate(20deg);
 }
 
 #b9-2-bb img {
   height: 2.7vh;
-  transform: translate(70%, -5%) rotate(0deg);
+  transform: translate(65%, -10%) rotate(0deg);
 }
 
 #b10-1-bb img {
   height: 3.5vh;
-  transform: translate(-100%, -5%) rotate(20deg);
+  transform: translate(-105%, -5%) rotate(20deg);
 }
 
 #b10-2-bb img {
@@ -4961,7 +4961,7 @@ main p {
 
 #b11-1-bb img {
   height: 3.5vh;
-  transform: translate(-100%, -5%) rotate(20deg);
+  transform: translate(-105%, -5%) rotate(20deg);
 }
 
 #b11-2-bb img {
@@ -4971,7 +4971,7 @@ main p {
 
 #b12-1-bb img {
   height: 3.1vh;
-  transform: translate(-110%, 10%) rotate(20deg);
+  transform: translate(-118%, 10%) rotate(20deg);
 }
 
 #b12-2-bb img {
@@ -4983,7 +4983,7 @@ main p {
 
 #p1 img {
   height: 10vh;
-  transform: translate(-5%, 0%) rotate(7deg);
+  transform: translate(-5%, -5%) rotate(7deg);
 }
 
 #p2 img {
@@ -5002,7 +5002,7 @@ main p {
 
 #p4 img {
   height: 11.7vh;
-  transform: translate(-30%, -14%) rotate(7deg);
+  transform: translate(-30%, -9%) rotate(7deg);
 }
 
 #p5 img {
@@ -5022,7 +5022,7 @@ main p {
 
 #p8 img {
   height: 10.5vh;
-  transform: translate(-25%, 0%) rotate(7deg);
+  transform: translate(-25%, -5%) rotate(7deg);
 }
 
 #p9 img {
